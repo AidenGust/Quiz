@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="level">Level:</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+    <string name="level4">Level 4</string>
+    <string name="level5">Level 5</string>
+    <string name="level6">Level 6</string>
+    <string name="level7">Level 7</string>
+    <string name="level8">Level 8</string>
+    <string name="level9">Level 9</string>
+    <string name="level10">Level 10</string>
+    <string name="level11">Level 11</string>
+    <string name="level12">Level 12</string>
+    <string name="level13">Level 13</string>
+    <string name="level14">Level 14</string>
+    <string name="level15">Level 15</string>
+    <string name="levelone">Choose the number that is larger.\n Tasks can be repeated until you score 20 points.</string>
+    <string name="leveltwo">Choose the Roman numeral that is larger.\n Tasks can be repeated until you score 20 points.</string>
+    <string name="textcontinue">Continue</string>
+    <string name="leveloneEnd">"Congratulations, the level is passed!
+    Interesting fact: according to Pythagoras, the number 5 is the perfect number of the human microcosm.
+    Aristotle also added the 5th element to the 4th elements (fire, water, air, earth) and called it ether, which became the basis of most of the spiritual practices of the ancient alchemists.
+    Also, the number 5 has a spiritual meaning and symbolism in other cultures."</string>
+    <string name="leveltwoEnd">"Congratulations, the level is passed!
+Interesting fact: There has never been an official, mandatory, or even generally accepted standard for Roman numerals.
+The forms of recording known to us only prevail. So, for example: IIXX was sometimes used to denote 18, instead of XVIII.
+This entry, apparently, comes from the quite common Latin word for 18, 'duodeviginti', or 'two out of twenty'"</string>
+    <string name="levelthree">Which planet is larger in diameter ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelfour">Which of these is edible ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelfive">Which of these is edible ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelthreeEnd">"Congratulations, now you know the sizes of the planets!
+Interesting fact: The Earth is the densest planet in the Solar system, and Saturn is the least dense, its density is lower than the density of water."</string>
+    <string name="levelfourEnd">"Congratulations, the level is passed!\n
+Interesting fact:Crocodiles eat rocks. Not quite a delicious delicacy, but crocodiles do not appreciate them for their taste qualities.
+Stomach stones help crocodiles digest food. Crocodile teeth are not designed for chewing.
+Therefore, they are not able to chew food. After the meal, he swallows stones to grind the food when it gets into the stomach.
+It is surprising that crocodiles can do without food at all from 1 year to 1.5 years."</string>
+    <string name="levelfiveEnd">"Congratulations, the level is passed!\n
+Interesting fact: Birds do not feel the sharpness of chili pepper, and this is used by cooks.
+They feed the chickens with pepper and get eggs with red yolk, and it is spicy."</string>
+
+    <string name="levelsix">Which land animal is bigger ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelsixEnd">"Congratulations, the level is passed!\n
+Interesting fact: The rhino horn is not bony, as you might think, looking at it, but consists of a high-strength protein-keratin, contained in our hair and nails."</string>
+    <string name="levelseven">What kind of animal is a predator ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelsevenEnd">"Congratulations, the level is passed!\n
+Interesting fact: Birds do not feel the sharpness of chili pepper, and this is used by cooks.
+They feed the chickens with pepper and get eggs with red yolk, and it is spicy."</string>
+
+    <string name="leveleight">Which of these is alive ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="leveleightEnd">"Congratulations, the level is passed!\n
+Interesting fact: The tallest tree on Earth is a sequoia growing in the USA with a height of 112 meters"</string>
+
+    <string name="levelnine">Which animal is faster ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelnineEnd">"Congratulations, the level is passed!\n
+Interesting fact: Unlike other big cats, cheetahs do not know how to growl at all.
+Their vocal abilities include hissing, purring, and sometimes even barking."</string>
+
+    <string name="levelten">Which marine animal is bigger ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="leveltenEnd">"Congratulations, the level is passed!\n
+Interesting fact: Whales are descended from terrestrial artiodactyl mammals.
+Then the whales changed the land to the deep sea.It happened about 50 million years ago.
+Their huge bodies still have fur on them.
+The closest relative of whales that still exists is the hippopotamus."</string>
+
+    <string name="leveleleven">Which of these mushrooms is edible ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelelevenEnd">"Congratulations, the level is passed!\n
+Interesting fact: Mushrooms, along with ferns, are the oldest inhabitants of the Earth, they are even older than the dinosaurs that they survived.
+The mushrooms even survived in the area of the Chernobyl accident."</string>
+
+    <string name="leveltwelve">Which of these trees is coniferous ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="leveltwelveEnd">"Congratulations, the level is passed!\n
+Interesting fact: Larch trees can live from 300 to 400 years, specimens have been found that are 800 years old.
+The height of the larch in a favorable climate reaches 50 meters, the trunk diameter is about 1 meter.
+The growth of a young tree for a year can be from 50 to 100 centimeters."</string>
+
+    <string name="levelthirteen">Which of these colors is warm ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelthirteenEnd">"Congratulations, the level is passed!\n
+Interesting fact: One fun fact about colors is that Pantone chooses the "color of the year" every year.
+This tradition began in 2000 with the color Cerulean Blue, and since then every year has a" different " color.
+The color of 2020 is "Classic blue" (Classic Blue)."</string>
+
+    <string name="levelfourteen">What kind of animal lays eggs ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelfourteenEnd">"Congratulations, the level is passed!\n
+Interesting fact: Echidna has the lowest blood temperature among mammals.
+In critical conditions, the animal reduces the temperature to 4 degrees, and the breathing rate to 1 in 3 minutes."</string>
+
+    <string name="levelfifteen">Which metal is stronger ?\n Tasks can be repeated until you score 20 points.</string>
+    <string name="levelfifteenEnd">"Congratulations, the level is passed!\n
+Interesting fact:In 2013, iridium was used for the first time in the world in the manufacture of official coins by the National Bank of Rwanda, which issued a coin made of pure metal of the 999th sample.
+The iridium coin was issued in the face value of 10 Rwandan francs.
+1 Russian ruble (RUB) equals 13.52 Rwandan franc (RWF)"</string>
+
+
+</resources>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Zero</string>
+    <string name="lvl1text1">One</string>
+    <string name="lvl1text2">Two</string>
+    <string name="lvl1text3">Three</string>
+    <string name="lvl1text4">Four</string>
+    <string name="lvl1text5">Five</string>
+    <string name="lvl1text6">Six</string>
+    <string name="lvl1text7">Seven</string>
+    <string name="lvl1text8">Eight</string>
+    <string name="lvl1text9">Nine</string>
+
+
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">III</string>
+    <string name="lvl2text4">IV</string>
+    <string name="lvl2text5">V</string>
+    <string name="lvl2text6">VI</string>
+    <string name="lvl2text7">VII</string>
+    <string name="lvl2text8">VIII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+
+
+    <string name="lvl3text1">Mercury</string>
+    <string name="lvl3text2">Mars</string>
+    <string name="lvl3text3">Venus</string>
+    <string name="lvl3text4">Earth</string>
+    <string name="lvl3text5">Neptune</string>
+    <string name="lvl3text6">Uranus</string>
+    <string name="lvl3text7">Saturn</string>
+    <string name="lvl3text8">Jupiter</string>
+
+    <string name="lvl4text1">Pizza</string>
+    <string name="lvl4text2">Umbrella</string>
+    <string name="lvl4text3">Carrot</string>
+    <string name="lvl4text4">Ball</string>
+    <string name="lvl4text5">Pear</string>
+    <string name="lvl4text6">Pencil</string>
+    <string name="lvl4text7">Hot-dog</string>
+    <string name="lvl4text8">Light bulb</string>
+    <string name="lvl4text9">Sandwich</string>
+    <string name="lvl4text10">Telephone</string>
+    <string name="lvl4text11">Salad</string>
+    <string name="lvl4text12">Book</string>
+    <string name="lvl4text13">Watermelon</string>
+    <string name="lvl4text14">Footwear</string>
+    <string name="lvl4text15">Hamburger</string>
+    <string name="lvl4text16">Box</string>
+
+    <string name="lvl5text1">Apple</string>
+    <string name="lvl5text2">Cabbage</string>
+    <string name="lvl5text3">Banana</string>
+    <string name="lvl5text4">Carrot</string>
+    <string name="lvl5text5">Kiwi</string>
+    <string name="lvl5text6">Onion</string>
+    <string name="lvl5text7">Pear</string>
+    <string name="lvl5text8">Potato</string>
+    <string name="lvl5text9">Limon</string>
+    <string name="lvl5text10">Beet</string>
+
+    <string name="lvl6text1">Water buffalo</string>
+    <string name="lvl6text2">Морской крокодил</string>
+    <string name="lvl6text3">Saltwater crocodile</string>
+    <string name="lvl6text4">Walrus</string>
+    <string name="lvl6text5">Giraffe</string>
+    <string name="lvl6text6">Gaur</string>
+    <string name="lvl6text7">Hippopotamus</string>
+    <string name="lvl6text8">White Rhinoceros</string>
+    <string name="lvl6text9">Asian elephant</string>
+    <string name="lvl6text10">African elephant</string>
+
+    <string name="lvl7text1">Cheetah</string>
+    <string name="lvl7text2">Cow</string>
+    <string name="lvl7text3">Bear</string>
+    <string name="lvl7text4">Giraffe</string>
+    <string name="lvl7text5">Wolf</string>
+    <string name="lvl7text6">Zebra</string>
+    <string name="lvl7text7">Fox</string>
+    <string name="lvl7text8">Whale</string>
+    <string name="lvl7text9">Lion</string>
+    <string name="lvl7text10">Antelope</string>
+    <string name="lvl7text11">Crocodile</string>
+    <string name="lvl7text12">Lemur</string>
+    <string name="lvl7text13">Shark</string>
+    <string name="lvl7text14">Koala</string>
+    <string name="lvl7text15">Tiger</string>
+    <string name="lvl7text16">Dolphin</string>
+
+    <string name="lvl8text1">Pine tree</string>
+    <string name="lvl8text2">Mountain</string>
+    <string name="lvl8text3">Fir</string>
+    <string name="lvl8text4">River</string>
+    <string name="lvl8text5">Acacia</string>
+    <string name="lvl8text6">House</string>
+    <string name="lvl8text7">Eagle</string>
+    <string name="lvl8text8">Books</string>
+    <string name="lvl8text9">Killer whale</string>
+    <string name="lvl8text10">Coffe</string>
+    <string name="lvl8text11">Mint</string>
+    <string name="lvl8text12">Cookie</string>
+    <string name="lvl8text13">Bamboo</string>
+    <string name="lvl8text14">Diamond</string>
+    <string name="lvl8text15">Pigeon</string>
+    <string name="lvl8text16">Clock</string>
+
+    <string name="lvl9text1">Hyena</string>
+    <string name="lvl9text2">Grey Fox</string>
+    <string name="lvl9text3">Coyote</string>
+    <string name="lvl9text4">Kulan</string>
+    <string name="lvl9text5">Elk</string>
+    <string name="lvl9text6">Thompson Gazelle</string>
+    <string name="lvl9text7">Lion</string>
+    <string name="lvl9text8">Wildebeest</string>
+    <string name="lvl9text9">Pronghorn</string>
+    <string name="lvl9text10">Cheetah</string>
+
+    <string name="lvl10text1">Walrus</string>
+    <string name="lvl10text2">Elephant seal</string>
+    <string name="lvl10text3">Saltwater crocodile</string>
+    <string name="lvl10text4">Killer whale</string>
+    <string name="lvl10text5">Humpback whale</string>
+    <string name="lvl10text6">Sei whale</string>
+    <string name="lvl10text7">Sperm whale</string>
+    <string name="lvl10text8">Bowhead whale</string>
+    <string name="lvl10text9">Fin whale</string>
+    <string name="lvl10text10">Blue Whale</string>
+
+    <string name="lvl11text1">Birch mushroom</string>
+    <string name="lvl11text2">Fly agaric</string>
+    <string name="lvl11text3">boletus</string>
+    <string name="lvl11text4">Сlavaria</string>
+    <string name="lvl11text5">honey fungus</string>
+    <string name="lvl11text6">Dung-beetle</string>
+    <string name="lvl11text7">Russule</string>
+    <string name="lvl11text8">Death cup</string>
+    <string name="lvl11text9">Boletus luteus</string>
+    <string name="lvl11text10">Bitter boletus</string>
+    <string name="lvl11text11">Milk mushroom</string>
+    <string name="lvl11text12">miceno</string>
+    <string name="lvl11text13">Orange-cap boletus</string>
+    <string name="lvl11text14">Polyporus</string>
+    <string name="lvl11text15">Oyster mushrooms</string>
+    <string name="lvl11text16">OTIDEA LEPORINA</string>
+
+    <string name="lvl12text1">Pine tree</string>
+    <string name="lvl12text2">Poplar</string>
+    <string name="lvl12text3">Fir</string>
+    <string name="lvl12text4">Oak</string>
+    <string name="lvl12text5">Cedar</string>
+    <string name="lvl12text6">Elm</string>
+    <string name="lvl12text7">Cypress</string>
+    <string name="lvl12text8">Willow</string>
+    <string name="lvl12text9">Larch</string>
+    <string name="lvl12text10">Maple</string>
+    <string name="lvl12text11">Pinus mugo</string>
+    <string name="lvl12text12">Tangerine Tree</string>
+    <string name="lvl12text13">Silver fir</string>
+    <string name="lvl12text14">Alder</string>
+    <string name="lvl12text15">Tsuga</string>
+    <string name="lvl12text16">Linden Tree</string>
+
+    <string name="lvl13text1">Red-purple</string>
+    <string name="lvl13text2">Yellow-green</string>
+    <string name="lvl13text3">Red</string>
+    <string name="lvl13text4">Greenn</string>
+    <string name="lvl13text5">Red-orange</string>
+    <string name="lvl13text6">Cyan</string>
+    <string name="lvl13text7">Orange</string>
+    <string name="lvl13text8">Blue</string>
+    <string name="lvl13text9">Red-orange</string>
+    <string name="lvl13text10">Blue-purple</string>
+    <string name="lvl13text11">Yellow</string>
+    <string name="lvl13text12">Violet</string>
+
+    <string name="lvl14text1">Turtle</string>
+    <string name="lvl14text2">Rabbit</string>
+    <string name="lvl14text3">Crocodile</string>
+    <string name="lvl14text4">Ferret</string>
+    <string name="lvl14text5">Echidna</string>
+    <string name="lvl14text6">Sloth</string>
+    <string name="lvl14text7">Platypus</string>
+    <string name="lvl14text8">Jerboa</string>
+    <string name="lvl14text9">Viper</string>
+    <string name="lvl14text10">Hamster</string>
+    <string name="lvl14text11">Ostrich</string>
+    <string name="lvl14text12">Panda</string>
+    <string name="lvl14text13">Quail</string>
+    <string name="lvl14text14">Gorilla</string>
+    <string name="lvl14text15">Chameleon</string>
+    <string name="lvl14text16">Panther</string>
+
+    <string name="lvl15text1">Titanium</string>
+    <string name="lvl15text2">Uranium</string>
+    <string name="lvl15text3">Wolfram</string>
+    <string name="lvl15text4">Renius</string>
+    <string name="lvl15text5">Osmium</string>
+    <string name="lvl15text6">Beryllium</string>
+    <string name="lvl15text7">Chrome</string>
+    <string name="lvl15text8">Tantalum</string>
+    <string name="lvl15text9">Ruthenium</string>
+    <string name="lvl15text10">Iridium</string>
+</resources>
